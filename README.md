@@ -2,7 +2,7 @@
 
 I'm an *amateur* coder that is almost always busy with things other than github :pensive: .
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=VertMawIIGen&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=VertMawIIGen&show_icons=true&bg_color=50,F6EA41,F048C6,99EDC3&text_color=7A3803&border_color=E4000F&title_color=871C0E&icon_color=8D4004" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VertMawIIGen&layout=compact" />
 
 \
