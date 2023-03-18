@@ -1,16 +1,31 @@
-### Hi there 👋
+## Hey there, I'm Vert MawIIGen.
 
-<!--
-**VertMawIIGen/VertMawIIGen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an *amateur* coder that is almost always busy with things other than github :pensive: .
 
-Here are some ideas to get you started:
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=VertMawIIGen&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VertMawIIGen&layout=compact" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+  
+
+---
+
+#### Things that I definitely should do:
+- [ ] Finish my personal website.
+- [ ] Learn other languages (such as Javascript).
+- [ ] Expand my current knowledge.
