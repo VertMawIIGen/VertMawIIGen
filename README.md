@@ -1,4 +1,4 @@
-## Hey there, I'm Vert MawIIGen.
+## Hey there, I'm Vert MawIIGen. &emsp; <img src="https://komarev.com/ghpvc/?username=VertMawIIGen&color=orange&style=for-the-badge" alt="" align="right">
 
 I'm an *amateur* coder that is almost always busy with things other than github :pensive: .
 
