@@ -1,4 +1,4 @@
-## Hey there, I'm Vert MawIIGen. &emsp; <img src="https://komarev.com/ghpvc/?username=VertMawIIGen&color=orange&style=for-the-badge" alt="" align="right">
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito+Sans&weight=300&size=30&pause=300&color=F76767&vCenter=true&width=435&lines=Hey+there+%F0%9F%99%82!;I'm+Vert+MawIIGen.;Thanks+for+visiting+my+profile+%F0%9F%91%8D!)](https://git.io/typing-svg) &emsp; <img src="https://komarev.com/ghpvc/?username=VertMawIIGen&color=orange&style=for-the-badge" alt="" align="right">
 
 I'm an *amateur* coder that is almost always busy with things other than github :pensive: .
 
