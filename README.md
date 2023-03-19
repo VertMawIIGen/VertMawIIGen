@@ -19,7 +19,7 @@ I'm an *amateur* coder that is almost always busy with things other than github 
   <tr>
     <td align="center" style="padding=0;width=50%;margin-right=800px">
       <a href="https://github.com/VertMawIIGen">
-      <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VertMawIIGen&theme=moltack" />
+      <img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VertMawIIGen&theme=moltack" />
     </td>
   </tr>
 </p>
