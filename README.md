@@ -23,15 +23,6 @@ I'm an *amateur* coder that is almost always busy with things other than github 
     </td>
   </tr>
 </p>
-<p align="center">
-  <tr>
-    <td align="center" style="padding=0;width=50%;margin-right=800px">
-      <a href="https://github.com/VertMawIIGen">
-      <img width="100%" src="https://raw.githubusercontent.com/VertMawIIGen/VertMawIIGen/output/github-contribution-grid-snake.svg" />
-    </td>
-  </tr>
-</p>
-
 
 ---
 
@@ -47,4 +38,14 @@ I'm an *amateur* coder that is almost always busy with things other than github 
 <p align="center">
 <img src="https://spotify-readme-display.vercel.app/api?rainbow=true&scan=true&rainbow=true&theme=dark"></img> </p>
 
+---
+### Miscellaneous:
 
+<p align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;margin-right=800px">
+      <a href="https://github.com/VertMawIIGen">
+      <img width="100%" src="https://raw.githubusercontent.com/VertMawIIGen/VertMawIIGen/output/github-contribution-grid-snake.svg" />
+    </td>
+  </tr>
+</p>
