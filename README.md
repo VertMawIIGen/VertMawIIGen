@@ -35,6 +35,7 @@ I'm an *amateur* coder that is almost always busy with things other than github 
 
 
 ---
-### Currently listening to:
+### <p align="center">Currently listening to:</p>
 
-![Spotify Song](https://spotify-readme-display.vercel.app/api?rainbow=true&scan=true&rainbow=true&theme=dark)
+<p align="center">
+<img src="https://spotify-readme-display.vercel.app/api?rainbow=true&scan=true&rainbow=true&theme=dark"></img> </p>
