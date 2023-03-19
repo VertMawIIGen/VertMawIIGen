@@ -6,11 +6,11 @@ I'm an *amateur* coder that is almost always busy with things other than github 
   <tr>
     <td align="center" style="padding=0;width="50%"">
       <a href="https://github.com/VertMawIIGen">
-      <img width="362px" src="https://github-readme-stats.vercel.app/api?username=VertMawIIGen&show_icons=true&bg_color=50,F6EA41,F048C6,99EDC3&text_color=7A3803&border_color=E4000F&title_color=871C0E&icon_color=8D4004&count_private=true&include_all_commits=true&enable_animations=true" />
+      <img width="43%" src="https://github-readme-stats.vercel.app/api?username=VertMawIIGen&show_icons=true&bg_color=50,F6EA41,F048C6,99EDC3&text_color=7A3803&border_color=E4000F&title_color=871C0E&icon_color=8D4004&count_private=true&include_all_commits=true&enable_animations=true" />
     </td>
       <td align="center" style="padding=0;width="50%"">
       <a href="https://github.com/VertMawIIGen">
-      <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VertMawIIGen&layout=compact&bg_color=60,ACDDDE,E1F8DC,F7D8BA&text_color=7A3803&border_color=FFAA87&title_color=FF8164&count_private=true&enable_animations=true" />
+      <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VertMawIIGen&layout=compact&bg_color=60,ACDDDE,E1F8DC,F7D8BA&text_color=7A3803&border_color=FFAA87&title_color=FF8164&count_private=true&enable_animations=true" />
     </td>
   </tr>
 </p>
@@ -19,11 +19,18 @@ I'm an *amateur* coder that is almost always busy with things other than github 
   <tr>
     <td align="center" style="padding=0;width=50%;margin-right=800px">
       <a href="https://github.com/VertMawIIGen">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VertMawIIGen&theme=moltack" />
+      <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VertMawIIGen&theme=moltack" />
     </td>
   </tr>
 </p>
- 
+<p align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;margin-right=800px">
+      <a href="https://github.com/VertMawIIGen">
+      <img width="100%" src="https://raw.githubusercontent.com/VertMawIIGen/VertMawIIGen/output/github-contribution-grid-snake.svg" />
+    </td>
+  </tr>
+</p>
 
 
 ---
@@ -39,3 +46,5 @@ I'm an *amateur* coder that is almost always busy with things other than github 
 
 <p align="center">
 <img src="https://spotify-readme-display.vercel.app/api?rainbow=true&scan=true&rainbow=true&theme=dark"></img> </p>
+
+
