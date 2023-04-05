@@ -10,7 +10,7 @@ I'm an *amateur* coder that is almost always busy with things other than github 
     </td>
       <td align="center" style="padding=0;width="50%"">
       <a href="https://github.com/VertMawIIGen">
-      <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VertMawIIGen&layout=compact&bg_color=60,ACDDDE,E1F8DC,F7D8BA&text_color=7A3803&border_color=FFAA87&title_color=FF8164&count_private=true&enable_animations=true" />
+      <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VertMawIIGen&layout=compact&bg_color=60,ACDDDE,E1F8DC,F7D8BA&text_color=7A3803&border_color=FFAA87&title_color=FF8164&count_private=true&enable_animations=true" />
     </td>
   </tr>
 </p>
