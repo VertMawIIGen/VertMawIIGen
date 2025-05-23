@@ -36,7 +36,8 @@ I'm an *amateur* coder that is almost always busy with things other than github 
 ### <p align="center">Currently listening to:</p>
 
 <p align="center">
-<img src="https://spotify-readme-display.vercel.app/api?rainbow=true&scan=true&rainbow=true&theme=dark"></img> </p>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31p6a6assbz5acwzta2ea2wgjrdm&cover_image=true&theme=novatorem&show_offline=true&background_color=8c0808&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Playing">
+</p>
 
 ---
 ### Miscellaneous:
